@@ -4,7 +4,7 @@ from turtle import * from random import randint
   
      
 # classic shape turtle
-speed(0)
+speed(0)_
 penup()
 goto(-140, 140)
   
@@ -88,4 +88,4 @@ for turn in range(100):
     player_3.forward(randint(1, 5))
     player_4.forward(randint(1, 5))
 
-    //
+    
